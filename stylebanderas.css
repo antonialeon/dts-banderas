@@ -1,0 +1,84 @@
+body{
+	background-color: beige;
+	font-family: inter tight;
+}
+h1{
+	text-align: center;
+	color: black;
+	font-size: 40px;
+	padding: 20px;
+}
+nav ul{
+	width: 100%;
+	list-style-type: none;
+	text-align: center;
+}
+nav li{
+	display: inline-flex;
+}
+nav a{
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+	width: 150px;
+}
+nav li:hover{
+	background-color: white;
+}
+.bandera{
+	background-color: white;
+	width: 500px;
+	height: 300px;
+	margin: 20px;
+	float: left;
+	display: inline-block;
+}
+#portugal{
+	background-color: #fe0000;
+}
+.franjaverde{
+	background-color: #066105 ;
+	width: 40%;
+	height: 100%;
+	float: left;
+}
+.simb{
+	height: 140px;
+	width: 140px;
+	position: absolute;
+	margin-left: -70px;
+	margin-top: 75px;
+
+}
+
+#japon{
+	background-color: white;
+}
+.puntorojo{
+	height: 170px;
+	width: 170px;
+	background-color: #bb1c33;
+	display: inline-block;
+	border-radius: 50%;
+	margin-top: 60px;
+	margin-left: 165px;
+}
+#madagascar{
+	background-color: #fb3e32;
+}
+.lineaverde{
+	background-color: #017e3a;
+	width: 65%;
+	height: 50%;
+	margin-top: -30%;
+	margin-left: 35%;
+
+
+}
+.lineablanca{
+	background-color: white;
+	width: 35%;
+	height: 100%;
+	margin-right: 65%;
+
+}
